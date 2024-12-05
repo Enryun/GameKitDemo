@@ -40,8 +40,11 @@ This project demonstrates how to implement real-time multiplayer functionality i
 
 - Update the bundle identifier to a unique value associated with your Apple Developer account.
 - Go to your project's Signing & Capabilities and set up the necessary capabilities:
+
 <img width="1050" alt="GameKit2" src="https://github.com/user-attachments/assets/e21cc72a-ceef-4e97-8b34-3bed8783f416">
+
 - Make sure to create the Project in AppstoreConnect and enable GameKit else it will not work in real devices:
+
 <img width="1443" alt="GameKit3" src="https://github.com/user-attachments/assets/3bd35752-5589-4ffa-894b-0385dcd33f72">
 
 ## Usage
