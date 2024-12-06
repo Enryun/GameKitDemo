@@ -17,7 +17,7 @@ A simple SwiftUI multiplayer demo using GameKit, where two players can increment
 
 ## Introduction
 
-This project demonstrates how to implement real-time multiplayer functionality in a SwiftUI app using `GameKit`. It provides a simple counter that two players can increment, and the counter value is synchronized between both players' devices. The project serves as a starting point for building more complex multiplayer games or apps.
+This project demonstrates how to implement real-time multiplayer functionality in a SwiftUI app using `GameKit`. It provides a simple counter that two (or more) players can increment, and the counter value is synchronized between both players' devices. The project serves as a starting point for building more complex multiplayer games or apps.
 
 ## Features
 
